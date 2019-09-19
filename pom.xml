@@ -5,5 +5,5 @@
 			    http://maven.apache.org/maven-v4_0_0.xsd">
 	<groupId>com.github.bookinggo</groupId>
 	<artifactId>cars-sdk-android-framework</artifactId>
-	<version>0.1.41</version>
+	<version>0.1.43</version>
 </project>
