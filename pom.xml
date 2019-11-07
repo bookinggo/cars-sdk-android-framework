@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.bookinggo</groupId>
     <artifactId>cars-sdk-android-framework</artifactId>
-    <version>0.1.60</version>
+    <version>0.1.61</version>
     <packaging>aar</packaging>
     <dependencies>
         <dependency>
@@ -72,17 +72,17 @@
         <dependency>
             <groupId>com.squareup.moshi</groupId>
             <artifactId>moshi</artifactId>
-            <version>1.9.1</version>
+            <version>1.8.0</version>
         </dependency>
         <dependency>
             <groupId>com.squareup.moshi</groupId>
             <artifactId>moshi-kotlin</artifactId>
-            <version>1.9.1</version>
+            <version>1.8.0</version>
         </dependency>
         <dependency>
             <groupId>com.squareup.moshi</groupId>
             <artifactId>moshi-adapters</artifactId>
-            <version>1.9.1</version>
+            <version>1.8.0</version>
         </dependency>
     </dependencies>
 
