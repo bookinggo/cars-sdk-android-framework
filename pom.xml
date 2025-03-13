@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.bookinggo</groupId>
   <artifactId>cars-sdk-android-framework</artifactId>
-  <version>1.4.113-dev</version>
+  <version>1.5.154-dev</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -35,7 +35,7 @@
     <dependency>
       <groupId>androidx.core</groupId>
       <artifactId>core-ktx</artifactId>
-      <version>1.13.1</version>
+      <version>1.15.0</version>
     </dependency>
     <dependency>
       <groupId>androidx.lifecycle</groupId>
@@ -51,6 +51,11 @@
       <groupId>androidx.browser</groupId>
       <artifactId>browser</artifactId>
       <version>1.8.0</version>
+    </dependency>
+    <dependency>
+      <groupId>androidx.activity</groupId>
+      <artifactId>activity-ktx</artifactId>
+      <version>1.10.1</version>
     </dependency>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
