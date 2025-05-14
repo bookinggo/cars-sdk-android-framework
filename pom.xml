@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.bookinggo</groupId>
   <artifactId>cars-sdk-android-framework</artifactId>
-  <version>1.5.154-dev</version>
+  <version>1.5.157-dev</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
